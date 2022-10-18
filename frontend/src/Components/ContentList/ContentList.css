@@ -1,0 +1,9 @@
+.content-list-wrapper {
+    height: auto;
+    width: 100vh;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 10px;
+}

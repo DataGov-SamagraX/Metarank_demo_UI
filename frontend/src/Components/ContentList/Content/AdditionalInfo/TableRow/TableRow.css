@@ -1,0 +1,7 @@
+.TableRow-wrapper{
+    display: flex;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+    font-size: 20px;
+    gap: 5px;
+}
