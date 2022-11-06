@@ -1,0 +1,1001 @@
+Unnamed: 0,phone_number,Activities,kharif_crops,Farmertype,district,Own_animal_large,Own_animal_small,Own_poultry,cluster
+859901,7894892401,['Crop_prod'],"['paddy', 'brinjal', 'blackgram', 'greengram']",,KEONJHAR,,,,2
+2760612,9938189160,['Animal_husbandry'],,,BOUDH,,,,18
+2749012,9938089536,,,,,,,,2
+2439876,9777234388,['Crop_prod'],,,BALASORE,,,,2
+2384312,9776210885,"['Crop_prod', 'Animal_husbandry']","['cabbage', 'paddy', 'brinjal']",3.0,KEONJHAR,,,,2
+777671,7873962565,,,,,,,,2
+2757219,9938160811,['Crop_prod'],"['pointedgourd', 'onion', 'paddy', 'brinjal', 'potato', 'groundnut', 'chili']",3.0,BARGARH,,,,2
+1700197,9090834443,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",2.0,PURI,,,,6
+669685,7815030461,"['Crop_prod', 'Animal_husbandry']","['mustard', 'othercrops', 'paddy']",3.0,MAYURBHANJ,,,,2
+2761522,9938196872,['Crop_prod'],['paddy'],2.0,BALASORE,,,,6
+540596,7684917732,['Animal_husbandry'],,,BALASORE,,,,18
+231606,7064956601,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy']",2.0,JAGATSINGHPUR,,,,2
+2027650,9438576779,['Crop_prod'],"['paddy', 'maize']",2.0,KORAPUT,,,,2
+795997,7894163662,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BALASORE,,,,2
+1556823,8895828458,"['Crop_prod', 'Animal_husbandry']","['horsegram', 'maize', 'greengram']",2.0,KANDHAMAL,,,,2
+153077,6372341765,['Crop_prod'],"['millet', 'othercrops']",,KORAPUT,,,,2
+2746376,9938068962,,,,,,,,2
+647636,7751921983,"['Crop_prod', 'Animal_husbandry']","['paddy', 'groundnut']",,MAYURBHANJ,,,,6
+2693658,9937613030,['Crop_prod'],"['paddy', 'greengram']",2.0,NAYAGARH,,,,6
+2274905,9668321753,['Crop_prod'],['paddy'],3.0,NAWARANGPUR,,,,18
+1996115,9437928125,,,,,,,,2
+846286,7894741918,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy']",3.0,KEONJHAR,,,,2
+702266,7852968607,['Crop_prod'],"['paddy', 'greengram']",3.0,BOLANGIR,,,,2
+2776297,9938332072,,,,,,,,2
+2743682,9938047549,['Crop_prod'],['paddy'],,NUAPADA,,,,6
+2435704,9777202819,"['Crop_prod', 'Animal_husbandry']",,,KEONJHAR,,,,18
+1064742,8144119534,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",2.0,PURI,,,,2
+1551203,8895698648,,,,,,,,2
+273543,7077650850,['Animal_husbandry'],,,KALAHANDI,,,,18
+1708892,9123045253,,,,,,,,18
+2357870,9692555497,['Animal_husbandry'],,,KHURDHA,,,,6
+23946,6370155627,['Animal_husbandry'],,,MAYURBHANJ,,,,18
+2401854,9776721758,,,,,,,,2
+881087,7978454025,,,,,,,,2
+86717,6371195360,,,,,,,,6
+2697140,9937644553,,,,,,,,2
+111022,6371585887,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,DHENKANAL,,,,6
+2474845,9777533753,,,,,,,,6
+1284458,8456831429,,,,,,,,2
+2724823,9937889591,['Crop_prod'],,,KHURDHA,,,,6
+224079,7064382212,['Crop_prod'],"['horsegram', 'paddy', 'greengram']",2.0,KHURDHA,,,,2
+2301357,9668594173,['Animal_husbandry'],,,KHURDHA,,,,18
+1655542,9078350484,['Crop_prod'],"['potato', 'onion', 'paddy', 'tomato']",2.0,KHURDHA,,,,2
+2652719,9937237311,,,,,,,,6
+1800559,9178758906,['Crop_prod'],"['mustard', 'paddy']",,SUNDERGARH,,,,2
+860269,7894896959,['Crop_prod'],"['mustard', 'paddy']",,BALASORE,,,,6
+1767733,9178480534,['Crop_prod'],['paddy'],2.0,BALASORE,,,,2
+2333537,9668983030,['Crop_prod'],"['paddy', 'greengram']",2.0,PURI,,,,18
+24928,6370170393,['Animal_husbandry'],,,KORAPUT,,,,2
+665501,7789953654,,,,,,,,2
+1840199,9336523686,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,KEONJHAR,,,,2
+2706847,9937733396,['Crop_prod'],['paddy'],2.0,BARGARH,,,,6
+669563,7815027127,"['Crop_prod', 'Animal_husbandry']","['maize', 'cabbage', 'horsegram', 'cowpea', 'bittergourd', 'paddy', 'brinjal', 'chili']",4.0,KEONJHAR,,,,6
+2548900,9827327262,"['Crop_prod', 'Animal_husbandry']","['mustard', 'paddy', 'maize']",,KANDHAMAL,,,,18
+707623,7853068234,['Animal_husbandry'],,,KALAHANDI,,,,2
+594607,7749039353,['Crop_prod'],"['mustard', 'paddy']",2.0,SAMBALPUR,,,,2
+1256296,8455039497,['Crop_prod'],"['othercrops', 'paddy']",2.0,BOLANGIR,,,,6
+715708,7853921644,['Crop_prod'],"['maize', 'cowpea', 'paddy', 'brinjal', 'blackgram']",2.0,KEONJHAR,,,,2
+2696248,9937635860,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BARGARH,,,,18
+2791216,9938454023,['Animal_husbandry'],,,PURI,,,,2
+2621422,9861956001,,,,,,,,6
+359250,7328846165,,,,,,,,6
+1112821,8208937044,"['Crop_prod', 'Animal_husbandry']","['paddy', 'maize']",,GAJAPATI,,,,2
+317614,7325809164,"['Crop_prod', 'Animal_husbandry']","['paddy', 'sesamum', 'brinjal']",2.0,SAMBALPUR,,,,6
+1787100,9178644115,['Animal_husbandry'],,,NUAPADA,,,,18
+681202,7847069805,['Crop_prod'],['paddy'],4.0,NAWARANGPUR,,,,2
+1443941,8658754534,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",6.0,KENDRAPARA,,,,6
+827900,7894551433,"['Crop_prod', 'Animal_husbandry']","['potato', 'onion', 'paddy', 'tomato']",2.0,DEOGARH,,,,6
+191237,6383561095,['Crop_prod'],['paddy'],3.0,MAYURBHANJ,,,,6
+356778,7328053611,,,,,,,,6
+2811108,9938615352,['Crop_prod'],['paddy'],2.0,BARGARH,,,,2
+2752117,9938116738,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,NAYAGARH,,,,6
+570263,7735521778,,,,,,,,6
+1165509,8260594114,"['Crop_prod', 'Animal_husbandry']","['paddy', 'groundnut', 'greengram']",,BARGARH,,,,2
+1142210,8260092366,"['Crop_prod', 'Animal_husbandry']","['cowpea', 'paddy', 'groundnut', 'greengram']",,BARGARH,,,,6
+2602622,9861582836,['Crop_prod'],['paddy'],2.0,BALASORE,,,,18
+2118257,9556298358,['Crop_prod'],['paddy'],,BHADRAK,,,,2
+710410,7853822314,['Animal_husbandry'],,,NUAPADA,,,,2
+447022,7608923732,['Crop_prod'],,,BALASORE,,,,6
+1645948,9078155792,['Crop_prod'],['maize'],,NAWARANGPUR,,,,6
+2598673,9861509655,['Crop_prod'],"['cabbage', 'cauliflower', 'paddy']",2.0,KEONJHAR,,,,2
+1619625,8984923062,['Crop_prod'],['paddy'],2.0,BOLANGIR,,,,2
+2179314,9556906871,['Crop_prod'],"['paddy', 'greengram']",2.0,KENDRAPARA,,,,2
+1167197,8260633294,,,,,,,,6
+2506535,9777789490,,,,,,,,2
+1634373,9040708460,,,,,,,,18
+2724036,9937882845,,,,,,,,6
+2648896,9937207675,['Crop_prod'],"['paddy', 'tomato', 'greengram']",2.0,KHURDHA,,,,6
+2475676,9777541261,['Crop_prod'],"['paddy', 'chili']",2.0,DHENKANAL,,,,18
+45501,6370499105,['Crop_prod'],"['paddy', 'onion', 'redgram']",,BOLANGIR,,,,6
+1839817,9330217497,,,,,,,,18
+118745,6371718802,,,,,,,,18
+2613282,9861796699,['Crop_prod'],"['cabbage', 'cauliflower', 'paddy', 'brinjal']",2.0,BALASORE,,,,2
+137162,6372034014,['Fisheries'],,,BOLANGIR,,,,2
+1740738,9178228317,,,,,,,,18
+1559418,8895898809,['Animal_husbandry'],,,GAJAPATI,,,,6
+500188,7681897484,,,,,,,,6
+1081917,8144437016,['Crop_prod'],,,BARGARH,,,,2
+759281,7873335225,['Crop_prod'],"['tomato', 'cabbage', 'cucumber', 'greengram', 'paddy', 'okra', 'brinjal', 'chili']",2.0,BALASORE,,,,2
+152850,6372337105,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BARGARH,,,,6
+501880,7682024676,['Crop_prod'],"['paddy', 'blackgram']",2.0,CUTTACK,,,,2
+180136,6372876288,,,,,,,,12
+612482,7750008400,,,,,,,,2
+1760341,9178404246,['Crop_prod'],"['othercrops', 'paddy']",3.0,MALKANGIRI,,,,13
+2597345,9861484190,,,,,,,,2
+1446824,8658785429,,,,,,,,2
+1587462,8917531968,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BALASORE,,,,13
+1749380,9178309088,['Animal_husbandry'],,,NUAPADA,,,,12
+2300117,9668581212,,,,,,,,2
+619218,7750809296,,,,,,,,2
+2195906,9583189049,['Crop_prod'],['paddy'],2.0,PURI,,,,13
+2552120,9827609774,['Crop_prod'],['paddy'],2.0,NUAPADA,,,,12
+673231,7846812395,"['Crop_prod', 'Animal_husbandry']","['cowpea', 'paddy']",3.0,KALAHANDI,,,,2
+2287992,9668453142,"['Crop_prod', 'Animal_husbandry']",['paddy'],,NAWARANGPUR,,,,12
+376947,7381156570,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,DHENKANAL,,,,12
+1067122,8144164533,['Animal_husbandry'],,,NAWARANGPUR,,,,12
+1816450,9178889988,"['Crop_prod', 'Animal_husbandry']","['tomato', 'paddy', 'bittergourd', 'brinjal', 'bottlegourd']",3.0,SAMBALPUR,,,,2
+771227,7873746467,['Crop_prod'],,,KHURDHA,,,,2
+2429506,9777154919,['Animal_husbandry'],,,KHURDHA,,,,2
+2067481,9439569973,['Crop_prod'],"['mustard', 'paddy']",,BOUDH,,,,2
+353519,7327984919,['Crop_prod'],['paddy'],2.0,BARGARH,,,,2
+2693045,9937607692,['Crop_prod'],"['paddy', 'tomato']",2.0,DEOGARH,,,,2
+717295,7853953106,"['Crop_prod', 'Animal_husbandry']","['tomato', 'cabbage', 'amaranthus', 'paddy', 'brinjal', 'mustard']",3.0,MAYURBHANJ,,,,12
+1711199,9131446320,['Crop_prod'],"['paddy', 'blackgram']",3.0,BARGARH,,,,12
+1291266,8456925958,['Crop_prod'],"['cabbage', 'cucumber', 'greengram', 'cauliflower', 'paddy', 'brinjal', 'chili']",,BOLANGIR,,,,13
+662769,7788905496,,,,,,,,2
+446795,7608918974,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy', 'tomato']",2.0,MAYURBHANJ,,,,2
+914387,8018146826,['Crop_prod'],['paddy'],2.0,DHENKANAL,,,,13
+2499829,9777742771,,,,,,,,12
+121011,6371758320,['Crop_prod'],,,KHURDHA,,,,12
+761232,7873410474,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,JAGATSINGHPUR,,,,2
+1267996,8455903814,['Crop_prod'],['paddy'],,PURI,,,,2
+1569328,8908507679,,,2.0,,,,,2
+2342018,9692148400,['Animal_husbandry'],,,RAYAGADA,,,,2
+2785643,9938405962,['Crop_prod'],['paddy'],2.0,MAYURBHANJ,,,,13
+799384,7894199691,"['Crop_prod', 'Animal_husbandry']","['cowpea', 'paddy', 'groundnut']",2.0,KEONJHAR,,,,13
+2284927,9668422688,"['Crop_prod', 'Animal_husbandry']","['maize', 'cowpea', 'onion', 'cauliflower', 'paddy', 'potato', 'sugarcane']",2.0,JHARSUGUDA,,,,12
+2053720,9439278070,,,,,,,,2
+168856,6372649658,['Crop_prod'],,,SONEPUR,,,,2
+2503809,9777771491,['Crop_prod'],,,BARGARH,,,,13
+2407694,9776882078,,,,,,,,13
+1113943,8248014203,['Animal_husbandry'],,,DEOGARH,,,,2
+2025897,9438538753,['Crop_prod'],"['maize', 'millet', 'onion', 'paddy', 'potato']",2.0,KORAPUT,,,,2
+366724,7377325053,,,,,,,,12
+2785467,9938404415,,,,,,,,13
+1886125,9337954728,['Crop_prod'],"['paddy', 'greengram']",2.0,KALAHANDI,,,,2
+859821,7894891424,['Crop_prod'],"['paddy', 'greengram']",2.0,BOLANGIR,,,,12
+1486537,8763448995,"['Crop_prod', 'Animal_husbandry']","['tomato', 'cabbage', 'othercrops', 'cucumber', 'cauliflower', 'paddy', 'bittergourd', 'brinjal', 'bottlegourd', 'chili']",3.0,KEONJHAR,,,,2
+1272738,8455969683,,,,,,,,2
+1243769,8339870015,['Crop_prod'],"['paddy', 'greengram']",2.0,DHENKANAL,,,,2
+1436559,8658672389,['Crop_prod'],['paddy'],2.0,MAYURBHANJ,,,,12
+55125,6370660322,['Crop_prod'],"['cotton', 'maize', 'greengram', 'paddy']",2.0,KALAHANDI,,,,2
+1860148,9337434526,['Crop_prod'],['paddy'],3.0,KEONJHAR,,,,2
+1815865,9178885690,,,,,,,,2
+2853072,9938979279,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,2
+512998,7682951623,,,,,,,,2
+2125594,9556384182,"['Crop_prod', 'Animal_husbandry']",,,JAGATSINGHPUR,,,,2
+1354165,8594846968,"['Crop_prod', 'Animal_husbandry']",['paddy'],,BALASORE,,,,13
+1978006,9437531893,,,,,,,,13
+429921,7606099083,['Crop_prod'],"['paddy', 'greengram']",2.0,NAYAGARH,,,,2
+259560,7077419846,['Crop_prod'],"['othercrops', 'paddy']",2.0,MAYURBHANJ,,,,2
+2419468,9777073488,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,2
+2605737,9861645543,['Crop_prod'],"['cowpea', 'greengram', 'paddy', 'blackgram', 'chili']",,MAYURBHANJ,,,,2
+1291908,8456933677,['Crop_prod'],"['paddy', 'greengram']",2.0,NAWARANGPUR,,,,12
+2307438,9668653599,,,,,,,,12
+1392470,8658180280,"['Crop_prod', 'Animal_husbandry']",['cotton'],,BOLANGIR,,,,13
+2180987,9556924845,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,SAMBALPUR,,,,12
+2343229,9692178552,"['Crop_prod', 'Animal_husbandry']","['maize', 'cabbage', 'onion', 'cauliflower', 'paddy', 'brinjal', 'potato']",3.0,KEONJHAR,,,,13
+2152620,9556643562,"['Crop_prod', 'Animal_husbandry']","['paddy', 'brinjal']",2.0,DHENKANAL,,,,2
+86889,6371198393,['Crop_prod'],"['othercrops', 'paddy']",2.0,BARGARH,,,,12
+2554194,9827869527,['Animal_husbandry'],,,KALAHANDI,,,,2
+1440263,8658713132,,,,,,,,13
+2546314,9827123601,['Crop_prod'],,,KALAHANDI,,,,2
+1169435,8260688780,['Crop_prod'],['paddy'],,KALAHANDI,,,,2
+492525,7681077175,,,,,,,,12
+107067,6371521165,,,,,,,,2
+2487235,9777643378,,,,,,,,12
+2139558,9556518054,['Animal_husbandry'],,,BOLANGIR,,,,2
+1021045,8114316278,"['Crop_prod', 'Animal_husbandry']",['paddy'],,BHADRAK,,,,12
+1964886,9437240311,['Crop_prod'],"['cabbage', 'paddy']",3.0,KANDHAMAL,,,,13
+526069,7683979136,['Crop_prod'],"['othercrops', 'paddy']",2.0,DHENKANAL,,,,2
+2765288,9938229251,,,,,,,,12
+2304222,9668620976,,,,,,,,2
+1917362,9348437108,['Crop_prod'],"['paddy', 'groundnut', 'greengram']",2.0,KENDRAPARA,,,,13
+789765,7894098775,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,2
+1439489,8658704680,['Animal_husbandry'],,,KENDRAPARA,,,,2
+2581304,9861150319,"['Crop_prod', 'Animal_husbandry']","['maize', 'cowpea', 'othercrops', 'cucumber', 'amaranthus', 'paddy', 'mustard', 'ridgegourd']",,KEONJHAR,,,,2
+2081337,9439930813,,,,,,,,2
+1204712,8280451279,['Crop_prod'],"['cabbage', 'cauliflower', 'paddy', 'brinjal', 'potato', 'chili']",2.0,KANDHAMAL,,,,2
+1574228,8917218165,['Crop_prod'],"['paddy', 'cucumber', 'bittergourd']",2.0,MAYURBHANJ,,,,12
+2575628,9861011742,['Crop_prod'],['paddy'],2.0,BARGARH,,,,2
+1716817,9178025244,"['Crop_prod', 'Animal_husbandry']","['paddy', 'brinjal']",,BALASORE,,,,12
+57243,6370695972,,,,,,,,13
+903540,8018027995,,,,,,,,12
+2570585,9853754276,,,,,,,,2
+2694560,9937620608,"['Crop_prod', 'Animal_husbandry']","['paddy', 'brinjal']",,BHADRAK,,,,12
+2261497,9668194115,,,,,,,,12
+1918662,9348461019,['Crop_prod'],"['paddy', 'blackgram']",2.0,PURI,,,,12
+2629876,9937006107,,,,,,,,12
+431061,7606826448,['Crop_prod'],['paddy'],3.0,BARGARH,,,,2
+1861986,9337480744,['Crop_prod'],"['cowpea', 'paddy', 'cotton']",,KALAHANDI,,,,5
+2530416,9777986333,,,,,,,,14
+1010423,8093325998,,,,,,,,2
+433019,7606883093,['Animal_husbandry'],,,KORAPUT,,,,5
+1971437,9437378511,['Crop_prod'],"['tomato', 'maize', 'onion', 'paddy', 'mustard']",3.0,KEONJHAR,,,,2
+1514801,8847866191,,,,,,,,2
+2655855,9937262869,"['Crop_prod', 'Animal_husbandry']","['paddy', 'redgram', 'cotton']",5.0,BOLANGIR,,,,5
+58788,6370726406,['Crop_prod'],,,DHENKANAL,,,,5
+181248,6372898386,['Animal_husbandry'],,,KALAHANDI,,,,2
+419742,7540996323,['Crop_prod'],"['paddy', 'greengram']",2.0,BALASORE,,,,5
+87921,6371216854,,,,,,,,2
+1368197,8598961018,,,,,,,,2
+2205634,9583482923,['Crop_prod'],"['paddy', 'blackgram']",6.0,BHADRAK,,,,14
+1853295,9337293690,['Crop_prod'],"['potato', 'onion', 'paddy']",2.0,KENDRAPARA,,,,14
+1848903,9337195995,['Crop_prod'],"['paddy', 'tomato']",,KORAPUT,,,,14
+735639,7855010315,['Crop_prod'],['paddy'],2.0,BARGARH,,,,2
+1341149,8480566370,,,,,,,,14
+671518,7815084499,['Animal_husbandry'],,,BARGARH,,,,5
+3880,6281663790,['Animal_husbandry'],,,GAJAPATI,,,,2
+2137590,9556499456,['Crop_prod'],['paddy'],2.0,BALASORE,,,,2
+1486649,8763451693,['Crop_prod'],['paddy'],2.0,KEONJHAR,,,,2
+2002570,9438069855,,,,,,,,5
+1358218,8596052886,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",,KHURDHA,,,,14
+1362645,8596982397,['Animal_husbandry'],,,PURI,,,,2
+1534177,8895332287,,,,,,,,2
+2089386,9556022263,,,,,,,,5
+394990,7381805446,['Crop_prod'],['paddy'],2.0,PURI,,,,2
+2160586,9556719745,,,,,,,,2
+1454991,8658870452,,,,,,,,2
+2834497,9938807979,['Crop_prod'],['paddy'],,PURI,,,,5
+75532,6371013380,['Crop_prod'],['paddy'],2.0,BARGARH,,,,5
+1880824,9337861261,['Animal_husbandry'],,,KEONJHAR,,,,2
+2114534,9556261356,['Crop_prod'],['paddy'],3.0,BARGARH,,,,2
+930097,8018287123,['Animal_husbandry'],,,BARGARH,,,,2
+959633,8018576161,,,,,,,,14
+2201060,9583346202,['Crop_prod'],,,BHADRAK,,,,14
+517880,7683836651,['Fisheries'],,,NAYAGARH,,,,5
+1839994,9334428986,['Crop_prod'],"['paddy', 'cotton']",2.0,BOLANGIR,,,,5
+260346,7077431361,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram']",,KENDRAPARA,,,,5
+1813755,9178866428,,,,,,,,5
+1912221,9348345532,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy', 'tomato']",,BALASORE,,,,14
+407411,7438932885,['Crop_prod'],"['paddy', 'cucumber', 'brinjal', 'greengram']",2.0,BALASORE,,,,2
+2171704,9556829711,['Crop_prod'],"['othercrops', 'paddy']",,MALKANGIRI,,,,14
+2343492,9692184769,['Animal_husbandry'],,,NAWARANGPUR,,,,2
+2135691,9556480547,['Crop_prod'],"['groundnut', 'greengram']",2.0,BARGARH,,,,14
+2728877,9937923682,['Crop_prod'],"['othercrops', 'paddy']",2.0,MALKANGIRI,,,,2
+218539,7064084154,['Crop_prod'],"['cabbage', 'cucumber', 'paddy', 'brinjal', 'chili']",2.0,BALASORE,,,,2
+13097,6363564729,['Crop_prod'],,,KENDRAPARA,,,,14
+2602751,9861585129,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",2.0,KENDRAPARA,,,,14
+226869,7064627846,"['Crop_prod', 'Animal_husbandry']","['paddy', 'okra', 'chili']",2.0,MAYURBHANJ,,,,2
+1476455,8763210238,,,,,,,,2
+494230,7681805815,['Animal_husbandry'],,,KEONJHAR,,,,14
+215475,7021891691,['Crop_prod'],,,KALAHANDI,,,,5
+1340953,8480557090,"['Crop_prod', 'Animal_husbandry']","['paddy', 'groundnut']",2.0,MALKANGIRI,,,,14
+584112,7735831895,['Animal_husbandry'],,,KALAHANDI,,,,14
+2763157,9938212088,['Crop_prod'],"['cabbage', 'pointedgourd', 'cauliflower', 'paddy', 'chili']",2.0,DEOGARH,,,,14
+88500,6371227145,['Crop_prod'],"['paddy', 'greengram']",2.0,KHURDHA,,,,2
+966957,8018650846,['Crop_prod'],,,BALASORE,,,,14
+476974,7655982779,['Animal_husbandry'],,,GAJAPATI,,,,2
+1424919,8658537486,"['Crop_prod', 'Animal_husbandry']","['paddy', 'sesamum']",3.0,MALKANGIRI,,,,2
+1172469,8260765495,['Crop_prod'],,,BOUDH,,,,5
+2403697,9776769629,['Crop_prod'],['greengram'],5.0,DHENKANAL,,,,2
+1030870,8114763201,,,,,,,,5
+135590,6372004216,['Animal_husbandry'],,,BARGARH,,,,5
+2589864,9861334837,,,,,,,,2
+1680320,9078911665,['Crop_prod'],"['othercrops', 'paddy']",2.0,NUAPADA,,,,2
+2355937,9692506835,"['Crop_prod', 'Animal_husbandry']","['paddy', 'chili']",,BARGARH,,,,5
+1958387,9437067671,,,,,,,,2
+804725,7894258527,['Crop_prod'],"['redgram', 'greengram', 'paddy', 'mustard', 'sesamum', 'blackgram']",2.0,ANGUL,,,,14
+1021852,8114330910,"['Crop_prod', 'Animal_husbandry']",,,KENDRAPARA,,,,2
+1025854,8114647113,['Crop_prod'],"['paddy', 'groundnut', 'blackgram']",2.0,JAGATSINGHPUR,,,,5
+343206,7327061745,,,,,,,,2
+2412658,9777009226,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,KALAHANDI,,,,5
+2229591,9658185273,['Crop_prod'],"['paddy', 'greengram']",2.0,BOLANGIR,,,,14
+333187,7326850997,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram', 'greengram']",6.0,JAGATSINGHPUR,,,,2
+280201,7077803955,,,,,,,,2
+515924,7683801514,['Crop_prod'],['paddy'],,BARGARH,,,,2
+1000363,8018968286,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,SONEPUR,,,,2
+606894,7749922427,['Animal_husbandry'],,,KALAHANDI,,,,5
+277881,7077740394,,,,,,,,5
+453606,7609086383,,,,,,,,2
+1909281,9348293807,"['Crop_prod', 'Animal_husbandry']",,,DHENKANAL,,,,2
+2013647,9438271060,"['Crop_prod', 'Animal_husbandry']","['millet', 'paddy']",3.0,KORAPUT,,,,5
+2034005,9438734878,,,,,,,,5
+1593879,8917683754,['Crop_prod'],,,KALAHANDI,,,,14
+1973867,9437429215,['Crop_prod'],"['paddy', 'chili']",,MAYURBHANJ,,,,2
+665579,7789963061,['Crop_prod'],"['paddy', 'brinjal']",2.0,PURI,,,,2
+1948109,9348958373,,,,,,,,2
+1931057,9348668779,['Crop_prod'],,,DHENKANAL,,,,14
+1651479,9078264053,,,,,,,,2
+100176,6371413268,,,,,,,,5
+2852779,9938976610,['Crop_prod'],['paddy'],,PURI,,,,2
+92401,6371287422,,,,,,,,5
+690,6238171096,['Crop_prod'],,,NAYAGARH,,,,2
+2238072,9658839620,['Crop_prod'],,,RAYAGADA,,,,2
+1392689,8658182985,['Crop_prod'],"['paddy', 'greengram']",2.0,DHENKANAL,,,,2
+646094,7751898606,['Crop_prod'],,,PURI,,,,2
+2627789,9908037332,['Crop_prod'],['paddy'],2.0,BALASORE,,,,2
+1369861,8599820261,,,,,,,,2
+1591435,8917627532,['Crop_prod'],"['paddy', 'greengram']",2.0,KHURDHA,,,,14
+2573660,9853927621,['Crop_prod'],['paddy'],2.0,BOLANGIR,,,,10
+1620795,8984990438,,,,,,,,2
+286321,7077900633,,,,,,,,10
+1424298,8658530541,['Crop_prod'],"['tomato', 'onion', 'paddy', 'brinjal', 'chili']",2.0,BHADRAK,,,,10
+254736,7077345131,,,,,,,,2
+1338199,8480442955,,,,,,,,10
+669441,7815023295,['Animal_husbandry'],,,MAYURBHANJ,,,,3
+284855,7077877171,['Crop_prod'],['paddy'],2.0,BOLANGIR,,,,3
+148921,6372258544,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,2
+2047639,9439168635,"['Crop_prod', 'Animal_husbandry']","['horsegram', 'paddy', 'greengram']",2.0,MAYURBHANJ,,,,2
+2310614,9668687006,"['Crop_prod', 'Animal_husbandry']","['cauliflower', 'paddy', 'brinjal', 'chili']",2.0,KEONJHAR,,,,2
+312547,7205876450,['Crop_prod'],,,KENDRAPARA,,,,2
+2139660,9556519270,,,,,,,,10
+1004851,8073156292,,,,,,,,2
+1383849,8658075954,,,,,,,,10
+2244086,9668027769,,,,,,,,10
+513698,7682964453,['Crop_prod'],"['greengram', 'paddy', 'mustard', 'potato', 'groundnut', 'blackgram']",2.0,DEOGARH,,,,3
+464116,7653051002,"['Crop_prod', 'Animal_husbandry']","['maize', 'paddy', 'brinjal', 'mustard', 'potato', 'chili']",2.0,KANDHAMAL,,,,2
+2185404,9556970239,"['Crop_prod', 'Animal_husbandry']",['paddy'],,NAYAGARH,,,,3
+2193401,9583117294,"['Crop_prod', 'Animal_husbandry']",['paddy'],,BALASORE,,,,2
+552486,7735128116,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",2.0,JAGATSINGHPUR,,,,10
+393563,7381755337,['Crop_prod'],['amaranthus'],2.0,BALASORE,,,,10
+2088454,9556014041,['Animal_husbandry'],,,KALAHANDI,,,,10
+723873,7854086832,,,,,,,,2
+49989,6370574667,,,,,,,,2
+1857379,9337378152,['Crop_prod'],,,DHENKANAL,,,,10
+2482209,9777602236,['Crop_prod'],"['paddy', 'brinjal', 'blackgram', 'greengram']",3.0,BARGARH,,,,2
+127769,6371873130,['Crop_prod'],"['paddy', 'greengram']",2.0,BALASORE,,,,2
+204533,7008550938,['Crop_prod'],"['flowers', 'paddy']",2.0,BALASORE,,,,3
+983838,8018813475,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",5.0,JAGATSINGHPUR,,,,3
+356628,7328049911,['Crop_prod'],['paddy'],,DEOGARH,,,,3
+1191197,8280206289,['Crop_prod'],['paddy'],2.0,MALKANGIRI,,,,3
+1529115,8895235122,,,,,,,,3
+2007131,9438152430,,,,,,,,3
+428437,7606062854,,,,,,,,2
+318338,7325826272,['Crop_prod'],"['paddy', 'tomato']",2.0,MAYURBHANJ,,,,10
+135032,6371994050,['Crop_prod'],['paddy'],2.0,KEONJHAR,,,,10
+2731362,9937944595,,,,,,,,3
+2617527,9861878571,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram', 'greengram']",2.0,BALASORE,,,,3
+1070962,8144237250,['Crop_prod'],['paddy'],2.0,JHARSUGUDA,,,,10
+203969,7008522317,,,,,,,,2
+1027254,8114676195,,,,,,,,2
+1439529,8658705080,['Crop_prod'],,,KHURDHA,,,,10
+1280889,8456081729,['Crop_prod'],"['paddy', 'groundnut']",3.0,MAYURBHANJ,,,,10
+2768848,9938258739,,,,,,,,2
+1351839,8511244120,['Crop_prod'],"['paddy', 'greengram']",2.0,BOLANGIR,,,,10
+1808277,9178822881,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,3
+719941,7854006114,['Crop_prod'],"['paddy', 'greengram']",2.0,KALAHANDI,,,,3
+1244889,8339924999,,,,,,,,3
+2858242,9974962888,['Animal_husbandry'],,,BOLANGIR,,,,10
+496868,7681841620,['Crop_prod'],"['maize', 'tomato', 'onion', 'paddy', 'brinjal']",,MAYURBHANJ,,,,2
+1670314,9078661846,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",2.0,NAYAGARH,,,,10
+2028930,9438613615,,,,,,,,2
+137235,6372035278,['Crop_prod'],,,JAGATSINGHPUR,,,,3
+2325912,9668831321,,,,,,,,2
+1488285,8763490723,['Crop_prod'],"['tomato', 'onion', 'othercrops', 'okra', 'paddy', 'potato']",2.0,PURI,,,,2
+1965142,9437246811,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,10
+2180217,9556916475,,,,,,,,2
+529866,7684044500,"['Crop_prod', 'Animal_husbandry']","['paddy', 'groundnut']",2.0,MAYURBHANJ,,,,10
+1318115,8458007169,,,,,,,,2
+1622600,9014738659,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy']",6.0,JAGATSINGHPUR,,,,2
+1602236,8984164600,,,,,,,,2
+1407357,8658346559,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BHADRAK,,,,2
+981773,8018793958,['Animal_husbandry'],,,NAWARANGPUR,,,,10
+1579728,8917352941,['Crop_prod'],,,BOLANGIR,,,,3
+1979081,9437549343,"['Crop_prod', 'Animal_husbandry']","['tomato', 'cabbage', 'cowpea', 'onion', 'paddy', 'brinjal', 'potato', 'blackgram', 'chili']",2.0,ANGUL,,,,2
+2823915,9938721887,['Crop_prod'],,,NAYAGARH,,,,2
+2343730,9692190066,"['Crop_prod', 'Animal_husbandry', 'Fisheries']","['maize', 'ridgegourd', 'cabbage', 'horsegram', 'pointedgourd', 'othercrops', 'greengram', 'cauliflower', 'paddy', 'brinjal', 'groundnut', 'blackgram']",2.0,NAYAGARH,,,,2
+2421465,9777088789,,,,,,,,3
+101608,6371436073,['Animal_husbandry'],,,KEONJHAR,,,,2
+1748933,9178305270,['Crop_prod'],['paddy'],2.0,BARGARH,,,,10
+636043,7751049207,['Animal_husbandry'],,,JHARSUGUDA,,,,10
+2372021,9692961218,['Crop_prod'],,,RAYAGADA,,,,10
+1860937,9337451252,['Crop_prod'],,,KHURDHA,,,,3
+1143245,8260110725,['Crop_prod'],"['paddy', 'brinjal']",,NAWARANGPUR,,,,10
+2355114,9692485350,,,,,,,,3
+2157206,9556685510,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",,GAJAPATI,,,,3
+864214,7894941629,['Crop_prod'],"['paddy', 'chili']",2.0,SAMBALPUR,,,,2
+87561,6371210212,['Crop_prod'],,,NAYAGARH,,,,10
+2362506,9692683553,['Crop_prod'],"['paddy', 'greengram']",2.0,KHURDHA,,,,10
+287404,7077917209,['Crop_prod'],,,BARGARH,,,,2
+1362857,8596996029,"['Crop_prod', 'Animal_husbandry']","['horsegram', 'paddy', 'blackgram', 'greengram']",2.0,DHENKANAL,,,,2
+909713,8018104594,"['Crop_prod', 'Animal_husbandry']","['greengram', 'paddy', 'brinjal', 'potato', 'blackgram', 'chili']",2.0,DHENKANAL,,,,10
+2141492,9556535928,['Animal_husbandry'],,,PURI,,,,2
+1888162,9337989483,['Animal_husbandry'],,,PURI,,,,3
+782824,7894028969,['Crop_prod'],['paddy'],2.0,BALASORE,,,,2
+1523352,8895115806,,,,,,,,3
+1026888,8114667929,['Crop_prod'],['paddy'],2.0,BARGARH,,,,3
+73956,6370985954,,,,,,,,3
+2015684,9438313133,['Crop_prod'],"['cucumber', 'greengram', 'paddy', 'brinjal', 'groundnut', 'chili']",2.0,MALKANGIRI,,,,2
+2244441,9668030806,['Crop_prod'],"['onion', 'paddy', 'blackgram', 'greengram']",2.0,NAYAGARH,,,,10
+384751,7381429288,['Crop_prod'],,,DHENKANAL,,,,2
+690970,7848807254,['Animal_husbandry'],,,MAYURBHANJ,,,,2
+116754,6371685301,,,,,,,,2
+2651084,9937223797,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BALASORE,,,,3
+1143763,8260121230,,,,,,,,2
+2025105,9438524225,,,,,,,,2
+2791982,9938460269,,,,,,,,10
+837481,7894649702,['Crop_prod'],,,BOUDH,,,,10
+1803976,9178787826,,,,,,,,3
+2671263,9937413201,['Crop_prod'],,,KENDRAPARA,,,,0
+2258014,9668157113,"['Crop_prod', 'Animal_husbandry']","['tomato', 'cucumber', 'paddy', 'bittergourd', 'brinjal']",2.0,BALASORE,,,,2
+941875,8018400703,['Crop_prod'],"['paddy', 'brinjal']",4.0,BARGARH,,,,2
+24459,6370163124,"['Crop_prod', 'Animal_husbandry']",,,BALASORE,,,,11
+935729,8018339670,['Crop_prod'],"['paddy', 'maize']",5.0,NAWARANGPUR,,,,0
+2630024,9937008523,['Crop_prod'],"['cabbage', 'cowpea', 'paddy', 'brinjal', 'chili']",2.0,ANGUL,,,,2
+2412268,9777005883,['Crop_prod'],"['potato', 'paddy', 'blackgram', 'greengram']",,KENDRAPARA,,,,0
+916104,8018162626,,,,,,,,0
+522315,7683916451,"['Crop_prod', 'Animal_husbandry']","['tomato', 'maize', 'millet', 'othercrops', 'paddy']",2.0,KEONJHAR,,,,0
+236187,7077056277,['Crop_prod'],"['paddy', 'greengram']",,KALAHANDI,,,,0
+2645207,9937174244,['Crop_prod'],['paddy'],2.0,NUAPADA,,,,0
+1090408,8144599533,['Crop_prod'],"['paddy', 'blackgram']",2.0,BOUDH,,,,0
+1769494,9178499844,,,,,,,,2
+790685,7894109187,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,PURI,,,,11
+2484306,9777619872,,,,,,,,0
+229253,7064766892,['Crop_prod'],['paddy'],2.0,BALASORE,,,,2
+2594443,9861427152,,,,,,,,2
+1445636,8658772868,['Crop_prod'],"['paddy', 'greengram']",3.0,PURI,,,,2
+2656656,9937270442,,,,,,,,2
+2081245,9439929080,"['Crop_prod', 'Animal_husbandry']","['millet', 'paddy', 'brinjal', 'mustard', 'chili']",2.0,KANDHAMAL,,,,2
+266440,7077528528,,,,,,,,2
+1444381,8658759650,['Crop_prod'],"['redgram', 'cotton']",2.0,KALAHANDI,,,,2
+1295452,8456983955,,,,,,,,11
+817472,7894398288,['Animal_husbandry'],,,PURI,,,,11
+663137,7788950546,['Crop_prod'],"['mustard', 'paddy']",2.0,BALASORE,,,,2
+537319,7684864232,"['Crop_prod', 'Animal_husbandry']",,,KEONJHAR,,,,11
+1517353,8870665246,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",3.0,DHENKANAL,,,,11
+141575,6372115546,,,,,,,,11
+440209,7608064882,"['Crop_prod', 'Animal_husbandry']","['tomato', 'cabbage', 'onion', 'paddy', 'brinjal', 'potato', 'sesamum', 'blackgram', 'chili']",4.0,ANGUL,,,,2
+2354540,9692471550,"['Crop_prod', 'Animal_husbandry']",['paddy'],,MAYURBHANJ,,,,2
+2737207,9937993133,,,,,,,,11
+277509,7077725313,['Crop_prod'],['paddy'],,BALASORE,,,,0
+552364,7735125600,,,,,,,,2
+1414131,8658420200,,,,,,,,0
+598455,7749800340,['Crop_prod'],"['cotton', 'cucumber', 'greengram', 'paddy', 'brinjal', 'blackgram']",3.0,RAYAGADA,,,,2
+2646837,9937189501,,,,,,,,0
+1864082,9337537760,,,,,,,,0
+1437058,8658678581,,,,,,,,11
+2266995,9668246097,['Crop_prod'],"['horsegram', 'paddy', 'groundnut', 'greengram']",3.0,NUAPADA,,,,11
+2060960,9439426416,,,,,,,,2
+600358,7749829099,,,,,,,,2
+1842188,9337044844,['Crop_prod'],"['paddy', 'greengram']",,PURI,,,,2
+2570120,9853722207,,,,,,,,2
+208880,7008754073,,,,,,,,2
+745680,7855931973,['Animal_husbandry'],,,KALAHANDI,,,,11
+1853009,9337287196,['Animal_husbandry'],,,BALASORE,,,,2
+2568165,9853610194,,,,,,,,2
+1098892,8144758457,['Crop_prod'],,,MAYURBHANJ,,,,2
+1190659,8280193105,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy']",3.0,BHADRAK,,,,2
+1657829,9078393720,"['Crop_prod', 'Animal_husbandry']","['cabbage', 'onion', 'amaranthus', 'bittergourd', 'paddy', 'brinjal', 'bottlegourd', 'blackgram']",,MAYURBHANJ,,,,2
+1952429,9361953281,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,BOLANGIR,,,,11
+1738855,9178213158,['Crop_prod'],"['tomato', 'cabbage', 'othercrops', 'paddy', 'brinjal', 'potato', 'chili']",,KEONJHAR,,,,2
+2519828,9777895943,['Crop_prod'],['paddy'],2.0,BARGARH,,,,2
+1246917,8342010147,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BALASORE,,,,0
+488970,7681019781,,,,,,,,2
+1912985,9348359267,,,,,,,,0
+73948,6370985772,['Animal_husbandry'],,,BALASORE,,,,2
+2209751,9583604907,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram', 'greengram']",2.0,JAGATSINGHPUR,,,,11
+1300347,8457052814,['Crop_prod'],['paddy'],4.0,NUAPADA,,,,0
+1707905,9114790679,['Crop_prod'],,,BALASORE,,,,0
+83793,6371146140,['Crop_prod'],,,KHURDHA,,,,2
+2836761,9938827458,['Crop_prod'],"['paddy', 'greengram']",2.0,BOLANGIR,,,,0
+605183,7749898376,,,,,,,,2
+491401,7681059632,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,NAWARANGPUR,,,,11
+2524226,9777935894,['Crop_prod'],,,KEONJHAR,,,,2
+2083938,9480496350,['Crop_prod'],,,RAYAGADA,,,,11
+141090,6372105016,['Crop_prod'],"['paddy', 'greengram']",4.0,KALAHANDI,,,,0
+892019,7978983084,['Crop_prod'],"['paddy', 'greengram']",,KENDRAPARA,,,,0
+2497047,9777721728,['Crop_prod'],"['paddy', 'greengram']",,NAYAGARH,,,,0
+382670,7381359428,['Animal_husbandry'],,,BALASORE,,,,2
+2437988,9777220385,['Crop_prod'],"['paddy', 'greengram']",2.0,PURI,,,,2
+1989472,9437775217,,,,,,,,0
+500072,7681895397,,,,,,,,11
+1606664,8984340920,['Crop_prod'],['paddy'],2.0,BARGARH,,,,2
+882546,7978524904,['Crop_prod'],"['cotton', 'tomato', 'othercrops', 'paddy', 'brinjal']",2.0,BOLANGIR,,,,2
+1281580,8456093372,['Crop_prod'],['paddy'],2.0,BARGARH,,,,0
+1201575,8280435019,,,,,,,,0
+2719993,9937847795,,,,,,,,2
+441063,7608085609,['Animal_husbandry'],,,BOLANGIR,,,,11
+2106395,9556184100,['Crop_prod'],"['cowpea', 'paddy', 'blackgram']",3.0,DHENKANAL,,,,0
+2854531,9938992614,,,,,,,,11
+1270592,8455940057,,,,,,,,2
+558531,7735261614,['Animal_husbandry'],,,KEONJHAR,,,,11
+1603414,8984217331,['Crop_prod'],,,BALASORE,,,,11
+889640,7978869458,['Crop_prod'],,,JHARSUGUDA,,,,0
+1001674,8018980591,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",2.0,BARGARH,,,,2
+215059,7019156149,"['Crop_prod', 'Animal_husbandry']","['paddy', 'tomato', 'brinjal', 'chili']",2.0,KEONJHAR,,,,0
+2657169,9937277762,"['Crop_prod', 'Animal_husbandry']","['paddy', 'tomato', 'brinjal']",3.0,BHADRAK,,,,2
+1796097,9178720911,,,,,,,,2
+689561,7848062030,['Crop_prod'],"['paddy', 'chili']",2.0,SAMBALPUR,,,,11
+1019755,8108542814,,,,,,,,2
+2397922,9776619135,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,MAYURBHANJ,,,,2
+1001735,8018981182,,,,,,,,2
+761006,7873402374,['Crop_prod'],['paddy'],2.0,MAYURBHANJ,,,,2
+136018,6372013194,"['Crop_prod', 'Animal_husbandry']","['maize', 'onion', 'othercrops', 'paddy', 'potato']",,KEONJHAR,,,,2
+408310,7440108213,,,,,,,,2
+274594,7077666796,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",3.0,MALKANGIRI,,,,2
+89156,6371237460,['Crop_prod'],['paddy'],,NAWARANGPUR,,,,2
+477767,7656017808,['Crop_prod'],,,KORAPUT,,,,0
+2020271,9438403828,['Crop_prod'],"['tomato', 'onion', 'paddy', 'brinjal', 'potato', 'chili']",2.0,KANDHAMAL,,,,11
+1847684,9337168465,['Fisheries'],,,JAGATSINGHPUR,,,,2
+784474,7894044720,,,,,,,,7
+2211449,9583655981,,,,,,,,2
+1614868,8984681849,['Crop_prod'],['sugarcane'],6.0,KHURDHA,,,,7
+2462456,9777409205,['Crop_prod'],,,MAYURBHANJ,,,,2
+2701347,9937682970,,,,,,,,7
+2086183,9544775665,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BOUDH,,,,2
+2173530,9556847594,"['Crop_prod', 'Animal_husbandry']","['paddy', 'brinjal', 'groundnut', 'blackgram']",2.0,JAGATSINGHPUR,,,,2
+511018,7682917624,"['Crop_prod', 'Animal_husbandry']","['tomato', 'cabbage', 'cowpea', 'onion', 'cauliflower', 'paddy', 'brinjal', 'chili']",3.0,KEONJHAR,,,,2
+2271620,9668291569,['Crop_prod'],['paddy'],2.0,BARGARH,,,,2
+810195,7894320512,['Crop_prod'],"['blackgram', 'greengram']",,KENDRAPARA,,,,2
+2156961,9556683311,['Crop_prod'],,,PURI,,,,2
+2693404,9937610755,['Animal_husbandry'],,,BALASORE,,,,7
+2366700,9692807883,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BARGARH,,,,2
+1454133,8658861626,['Crop_prod'],['paddy'],2.0,MAYURBHANJ,,,,2
+1699366,9090790693,['Animal_husbandry'],,,KHURDHA,,,,7
+2727723,9937913460,['Animal_husbandry'],,,KENDRAPARA,,,,7
+2562396,9853316486,['Crop_prod'],['paddy'],,BALASORE,,,,7
+873108,7978061900,"['Crop_prod', 'Animal_husbandry']","['cabbage', 'paddy', 'brinjal']",2.0,KEONJHAR,,,,7
+78140,6371053433,['Crop_prod'],,,KALAHANDI,,,,7
+547561,7735026631,"['Crop_prod', 'Animal_husbandry']","['onion', 'othercrops', 'paddy']",2.0,MAYURBHANJ,,,,8
+2075159,9439775844,['Crop_prod'],['paddy'],2.0,KORAPUT,,,,2
+639022,7751094490,['Animal_husbandry'],,,NAWARANGPUR,,,,8
+305315,7205534029,"['Crop_prod', 'Animal_husbandry']","['cabbage', 'cauliflower', 'paddy', 'brinjal', 'chili']",3.0,MAYURBHANJ,,,,2
+1416399,8658443535,['Animal_husbandry'],,,NAWARANGPUR,,,,2
+2350151,9692356752,['Animal_husbandry'],,,KEONJHAR,,,,2
+760223,7873370696,"['Crop_prod', 'Animal_husbandry']","['cabbage', 'cucumber', 'cauliflower', 'brinjal', 'chili']",,CUTTACK,,,,8
+910225,8018109544,,,,,,,,7
+2628,6265330318,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,NUAPADA,,,,2
+1670297,9078661603,,,,,,,,8
+1941396,9348842938,['Animal_husbandry'],,,MAYURBHANJ,,,,8
+2511173,9777825792,['Crop_prod'],"['horsegram', 'paddy', 'greengram']",4.0,KALAHANDI,,,,8
+1671309,9078689393,"['Crop_prod', 'Animal_husbandry']",,,BALASORE,,,,2
+1594056,8917687942,,,,,,,,8
+925068,8018243900,"['Crop_prod', 'Animal_husbandry']",['paddy'],4.0,PURI,,,,8
+2583029,9861190487,['Crop_prod'],,,NAYAGARH,,,,7
+1895562,9348053205,['Crop_prod'],,,NAYAGARH,,,,2
+1525976,8895167856,"['Crop_prod', 'Animal_husbandry']","['horsegram', 'paddy', 'maize', 'mustard']",2.0,KANDHAMAL,,,,8
+987031,8018845811,['Crop_prod'],['paddy'],2.0,BALASORE,,,,2
+1347065,8480810840,,,,,,,,2
+2567605,9853571184,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",,JAGATSINGHPUR,,,,2
+111364,6371591164,['Crop_prod'],"['paddy', 'greengram']",2.0,BOLANGIR,,,,7
+2375005,9737415206,['Crop_prod'],"['paddy', 'greengram']",2.0,KENDRAPARA,,,,2
+2439104,9777228494,['Crop_prod'],['paddy'],2.0,NUAPADA,,,,8
+1996236,9437931284,"['Crop_prod', 'Animal_husbandry']","['paddy', 'tomato', 'brinjal']",2.0,KEONJHAR,,,,8
+2324592,9668820599,['Crop_prod'],"['paddy', 'maize']",4.0,NAWARANGPUR,,,,8
+2718665,9937836186,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy', 'tomato', 'brinjal']",3.0,BOLANGIR,,,,7
+2324487,9668819371,,,,,,,,7
+608496,7749945805,,,,,,,,7
+638652,7751088927,,,,,,,,8
+1249608,8342869310,"['Crop_prod', 'Animal_husbandry']","['paddy', 'brinjal', 'chili']",2.0,BALASORE,,,,2
+2001174,9438047365,"['Crop_prod', 'Animal_husbandry']",['paddy'],,KEONJHAR,,,,2
+2605622,9861643458,,,,,,,,2
+690863,7848803477,['Crop_prod'],,,NAYAGARH,,,,2
+525370,7683967510,['Crop_prod'],['paddy'],2.0,MAYURBHANJ,,,,7
+793183,7894133093,['Crop_prod'],"['paddy', 'brinjal']",2.0,BALASORE,,,,7
+1205638,8280478051,,,,,,,,7
+1531649,8895287352,,,,,,,,7
+157853,6372437050,,,,,,,,7
+1523105,8895111501,['Animal_husbandry'],,,KEONJHAR,,,,2
+721541,7854037840,"['Crop_prod', 'Animal_husbandry']","['tomato', 'onion', 'paddy', 'potato', 'chili']",2.0,KEONJHAR,,,,7
+629104,7750945335,['Crop_prod'],"['cauliflower', 'maize']",2.0,NAWARANGPUR,,,,8
+104434,6371479774,['Crop_prod'],,,SAMBALPUR,,,,7
+2558464,9853119111,['Crop_prod'],"['brinjal', 'blackgram']",2.0,JAJPUR,,,,8
+2724048,9937882934,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,NAYAGARH,,,,7
+637509,7751071852,,,,,,,,2
+645006,7751882335,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy']",,MAYURBHANJ,,,,7
+808938,7894306615,,,,,,,,2
+2194605,9583147533,['Crop_prod'],"['horsegram', 'paddy', 'blackgram', 'greengram']",,MAYURBHANJ,,,,2
+2241633,9668002321,['Crop_prod'],"['paddy', 'greengram']",,KHURDHA,,,,7
+1202,6238920953,"['Crop_prod', 'Animal_husbandry']","['tomato', 'onion', 'cauliflower', 'paddy', 'okra', 'brinjal', 'chili']",2.0,KEONJHAR,,,,2
+151303,6372305793,['Crop_prod'],,2.0,KEONJHAR,,,,2
+768462,7873660579,,,,,,,,2
+402186,7436869857,,,,,,,,2
+447554,7608933835,['Crop_prod'],,,KHURDHA,,,,8
+1562448,8895964256,['Crop_prod'],,,DHENKANAL,,,,7
+2598358,9861503997,['Crop_prod'],['paddy'],2.0,SONEPUR,,,,2
+81682,6371109662,['Crop_prod'],"['cowpea', 'paddy', 'brinjal']",2.0,KEONJHAR,,,,2
+794100,7894142766,['Crop_prod'],['paddy'],2.0,BARGARH,,,,7
+472694,7655818593,['Crop_prod'],,,KANDHAMAL,,,,2
+438378,7608020750,['Animal_husbandry'],,2.0,KENDRAPARA,,,,8
+2049949,9439215592,,,,,,,,8
+1716962,9178026378,['Crop_prod'],,,SONEPUR,,,,2
+2647244,9937193266,,,,,,,,2
+2558641,9853129496,['Crop_prod'],"['tomato', 'onion', 'paddy', 'brinjal', 'potato', 'chili']",,DHENKANAL,,,,8
+1012891,8093504381,,,,,,,,8
+584579,7735843826,['Crop_prod'],"['othercrops', 'paddy']",,NAYAGARH,,,,2
+2134132,9556466259,,,,,,,,8
+2299361,9668572525,,,,,,,,2
+507199,7682831248,['Animal_husbandry'],,,PURI,,,,8
+401161,7405798885,['Crop_prod'],,,GANJAM,,,,2
+137562,6372040855,['Animal_husbandry'],,,KHURDHA,,,,8
+1648851,9078213154,['Animal_husbandry'],,,BALASORE,,,,2
+1472680,8763116921,"['Crop_prod', 'Animal_husbandry', 'Forestry']","['maize', 'tomato', 'onion', 'othercrops', 'cucumber', 'paddy', 'brinjal', 'mustard', 'potato', 'chili']",2.0,KANDHAMAL,,,,2
+1197218,8280414276,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",6.0,JAGATSINGHPUR,,,,7
+1328116,8480128108,['Crop_prod'],"['cabbage', 'paddy', 'brinjal']",3.0,GAJAPATI,,,,8
+2472338,9777512271,,,,,,,,7
+394518,7381786578,"['Crop_prod', 'Animal_husbandry']",,,JAGATSINGHPUR,,,,7
+908160,8018080697,,,,,,,,7
+1617088,8984786806,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram', 'greengram']",2.0,KEONJHAR,,,,7
+140273,6372089765,,,,,,,,2
+860708,7894901882,['Animal_husbandry'],,,BARGARH,,,,4
+941892,8018400898,['Animal_husbandry'],,,MAYURBHANJ,,,,2
+440168,7608064103,['Animal_husbandry'],,,NAYAGARH,,,,2
+1637185,9040932835,['Crop_prod'],"['paddy', 'greengram']",2.0,BHADRAK,,,,17
+2635950,9937089425,,,,,,,,2
+2754687,9938138494,['Crop_prod'],"['paddy', 'greengram']",2.0,PURI,,,,17
+2692958,9937606822,"['Crop_prod', 'Animal_husbandry']","['paddy', 'tomato']",,BALASORE,,,,2
+1386695,8658111221,,,,,,,,4
+2420508,9777081282,,,,,,,,17
+2610886,9861751820,['Crop_prod'],['paddy'],2.0,BARGARH,,,,17
+498495,7681869596,,,,,,,,17
+2649309,9937210847,['Crop_prod'],"['paddy', 'greengram']",,KENDRAPARA,,,,4
+621432,7750838822,['Crop_prod'],"['paddy', 'greengram']",2.0,NAYAGARH,,,,2
+2605570,9861642158,['Crop_prod'],"['paddy', 'greengram']",2.0,KENDRAPARA,,,,2
+1105053,8144875635,['Crop_prod'],"['cabbage', 'cauliflower', 'cucumber', 'paddy']",2.0,MAYURBHANJ,,,,2
+880458,7978420109,,,,,,,,2
+85200,6371170314,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",2.0,KHURDHA,,,,2
+1366018,8598859718,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,2
+2552108,9827608142,['Crop_prod'],['paddy'],,NUAPADA,,,,17
+1333949,8480315779,"['Crop_prod', 'Animal_husbandry']","['tomato', 'maize', 'cabbage', 'onion', 'othercrops', 'amaranthus', 'cauliflower', 'paddy', 'brinjal', 'potato', 'chili']",,KANDHAMAL,,,,4
+1650653,9078247511,['Crop_prod'],"['paddy', 'blackgram']",2.0,NUAPADA,,,,2
+1217649,8280967009,,,,,,,,17
+945195,8018433111,,,,,,,,4
+2761435,9938196130,"['Crop_prod', 'Animal_husbandry']","['cabbage', 'cauliflower', 'paddy', 'brinjal', 'bottlegourd', 'blackgram', 'chili']",2.0,JAGATSINGHPUR,,,,2
+1022405,8114345630,['Animal_husbandry'],,,SAMBALPUR,,,,17
+2519016,9777888717,"['Crop_prod', 'Animal_husbandry']",,,PURI,,,,4
+1018410,8093980031,['Crop_prod'],,,KENDRAPARA,,,,4
+2442125,9777252069,['Crop_prod'],"['paddy', 'blackgram']",2.0,KALAHANDI,,,,2
+2422152,9777094315,"['Crop_prod', 'Animal_husbandry']","['tomato', 'amaranthus', 'bittergourd', 'brinjal', 'chili']",5.0,KEONJHAR,,,,2
+1659468,9078428256,['Crop_prod'],"['cotton', 'greengram']",,BOLANGIR,,,,2
+1169834,8260698443,['Crop_prod'],,,DHENKANAL,,,,2
+1236123,8338083607,['Crop_prod'],"['paddy', 'greengram']",2.0,KHURDHA,,,,2
+1638220,9048244166,['Animal_husbandry'],,,MAYURBHANJ,,,,2
+1215877,8280897719,['Crop_prod'],,,KANDHAMAL,,,,2
+2290475,9668484951,,,,,,,,2
+2272891,9668303120,['Crop_prod'],"['onion', 'paddy', 'cowpea']",2.0,KEONJHAR,,,,17
+476035,7655947617,['Crop_prod'],"['millet', 'othercrops', 'paddy', 'mustard']",3.0,GAJAPATI,,,,2
+2391248,9776420750,['Crop_prod'],"['paddy', 'brinjal']",2.0,BALASORE,,,,2
+2345444,9692236567,['Crop_prod'],,,BARGARH,,,,17
+1322098,8458066518,['Crop_prod'],"['paddy', 'redgram', 'cotton']",2.0,KALAHANDI,,,,4
+2527117,9777959692,['Crop_prod'],['paddy'],,KALAHANDI,,,,2
+17377,6370049532,"['Crop_prod', 'Animal_husbandry']",['paddy'],,MAYURBHANJ,,,,4
+2633192,9937053226,,,,,,,,17
+852444,7894809408,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BALASORE,,,,17
+1288153,8456883384,"['Crop_prod', 'Animal_husbandry']","['tomato', 'cowpea', 'paddy', 'brinjal', 'groundnut', 'chili']",3.0,BARGARH,,,,17
+988680,8018862256,['Crop_prod'],"['othercrops', 'paddy']",4.0,KALAHANDI,,,,2
+1704962,9114148530,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram', 'greengram']",2.0,JAJPUR,,,,4
+1722155,9178070171,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram']",2.0,PURI,,,,17
+1037708,8114924830,['Crop_prod'],,,KENDRAPARA,,,,4
+2062992,9439466795,,,,,,,,17
+2121516,9556341082,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BALASORE,,,,4
+2606825,9861667894,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,2
+726489,7854835720,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy', 'blackgram', 'greengram']",6.0,MALKANGIRI,,,,4
+1295840,8456989949,['Crop_prod'],"['paddy', 'brinjal', 'greengram']",2.0,BHADRAK,,,,2
+207716,7008698642,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy', 'maize']",3.0,NAWARANGPUR,,,,2
+930396,8018289716,,,,,,,,17
+2196594,9583210077,"['Crop_prod', 'Animal_husbandry']","['paddy', 'chili']",2.0,BALASORE,,,,4
+2058716,9439380487,,,,,,,,4
+537197,7684861943,"['Crop_prod', 'Animal_husbandry']",['paddy'],3.0,DEOGARH,,,,4
+786664,7894067830,"['Crop_prod', 'Animal_husbandry']",,,CUTTACK,,,,2
+2000378,9438031893,['Crop_prod'],['paddy'],2.0,MAYURBHANJ,,,,2
+1036847,8114905333,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy', 'tomato']",2.0,BALASORE,,,,2
+549773,7735071652,"['Crop_prod', 'Animal_husbandry']","['paddy', 'tomato']",2.0,MAYURBHANJ,,,,2
+134119,6371979302,['Crop_prod'],['paddy'],2.0,MAYURBHANJ,,,,2
+1171587,8260743136,['Crop_prod'],['paddy'],,BARGARH,,,,2
+106332,6371508896,['Animal_husbandry'],,,MAYURBHANJ,,,,2
+1476927,8763222388,['Animal_husbandry'],,,RAYAGADA,,,,17
+2299542,9668574346,['Crop_prod'],"['paddy', 'greengram']",2.0,PURI,,,,17
+2780420,9938362864,['Crop_prod'],,,BARGARH,,,,4
+2726570,9937903859,['Crop_prod'],"['paddy', 'chili']",2.0,SAMBALPUR,,,,4
+1434611,8658651240,['Crop_prod'],"['tomato', 'onion', 'bittergourd', 'brinjal', 'potato']",2.0,NAWARANGPUR,,,,2
+429829,7606096455,['Animal_husbandry'],,,BOLANGIR,,,,17
+1866002,9337575119,['Animal_husbandry'],,,BALASORE,,,,4
+1098912,8144758860,,,,,,,,2
+579293,7735716635,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BARGARH,,,,17
+1167361,8260637286,['Animal_husbandry'],,,NUAPADA,,,,17
+601949,7749855456,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,SONEPUR,,,,4
+843428,7894710087,,,,,,,,2
+2287954,9668452854,,,,,,,,17
+234414,7077028256,,,,,,,,17
+1559669,8895903617,['Crop_prod'],['paddy'],,KANDHAMAL,,,,17
+154232,6372365074,,,,,,,,4
+365668,7377230603,,,,,,,,2
+154953,6372380324,,,,,,,,2
+2354514,9692470861,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,BOLANGIR,,,,17
+1285248,8456842930,['Crop_prod'],,,KORAPUT,,,,17
+1126469,8249549149,,,,,,,,4
+361360,7328897327,,,,,,,,4
+2254807,9668127232,,,,,,,,2
+1972352,9437396572,,,,,,,,2
+90013,6371250447,['Crop_prod'],['paddy'],,BHADRAK,,,,2
+1076088,8144328874,['Crop_prod'],,2.0,BOLANGIR,,,,2
+2619051,9861905162,,,,,,,,17
+2676945,9937465356,['Crop_prod'],"['paddy', 'greengram']",,JAGATSINGHPUR,,,,17
+2617830,9861884025,['Animal_husbandry'],,,KORAPUT,,,,17
+1204980,8280454056,,,,,,,,2
+1054425,8118016198,['Crop_prod'],['paddy'],2.0,BARGARH,,,,17
+720239,7854012877,['Crop_prod'],['paddy'],,BALASORE,,,,4
+3420,6268874917,['Crop_prod'],"['paddy', 'groundnut']",2.0,BARGARH,,,,2
+124596,6371819832,['Crop_prod'],"['millet', 'maize']",3.0,NAWARANGPUR,,,,2
+2408095,9776892707,,,,,,,,19
+1282745,8456809768,,,,,,,,19
+1413966,8658418482,['Crop_prod'],['paddy'],2.0,NUAPADA,,,,19
+435426,7606939204,['Animal_husbandry'],,,BALASORE,,,,2
+877975,7978303203,['Crop_prod'],['paddy'],,KENDRAPARA,,,,19
+795237,7894155445,,,,,,,,19
+1674532,9078765488,['Crop_prod'],,,BARGARH,,,,19
+2263919,9668216147,['Crop_prod'],,,NAWARANGPUR,,,,2
+1401307,8658279941,"['Crop_prod', 'Animal_husbandry']","['paddy', 'groundnut', 'maize']",2.0,BALASORE,,,,19
+1892327,9347322507,,,,,,,,2
+132570,6371952989,"['Crop_prod', 'Animal_husbandry']","['millet', 'paddy', 'greengram']",2.0,BARGARH,,,,2
+2813708,9938636050,,,,,,,,2
+1133056,8249823832,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,KALAHANDI,,,,19
+1490702,8763546162,"['Crop_prod', 'Animal_husbandry']",,,CUTTACK,,,,19
+1201054,8280433428,['Crop_prod'],"['paddy', 'brinjal', 'chili']",2.0,KEONJHAR,,,,2
+89091,6371236461,['Crop_prod'],,2.0,KEONJHAR,,,,2
+2687516,9937559802,"['Crop_prod', 'Animal_husbandry']","['paddy', 'maize', 'brinjal', 'chili']",2.0,KEONJHAR,,,,2
+1518048,8894394887,['Animal_husbandry'],,,KORAPUT,,,,15
+2348924,9692326194,,,,,,,,15
+2354553,9692471929,,,,,,,,19
+734443,7854987158,['Crop_prod'],['paddy'],,NUAPADA,,,,19
+2754228,9938134685,,,,,,,,2
+423413,7605954162,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,MAYURBHANJ,,,,2
+1736124,9178190567,['Crop_prod'],,,KENDRAPARA,,,,19
+719294,7853992724,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,MAYURBHANJ,,,,15
+2177864,9556890314,"['Crop_prod', 'Animal_husbandry']","['tomato', 'cabbage', 'cowpea', 'cucumber', 'cauliflower', 'paddy', 'okra', 'brinjal', 'potato', 'ridgegourd', 'chili']",2.0,MAYURBHANJ,,,,15
+1577972,8917311217,['Crop_prod'],,,PURI,,,,15
+1749493,9178309907,['Crop_prod'],"['paddy', 'greengram']",2.0,KHURDHA,,,,19
+1433292,8658636147,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,15
+963306,8018614240,['Crop_prod'],"['paddy', 'groundnut']",6.0,BARGARH,,,,19
+24223,6370159421,['Animal_husbandry'],,,KANDHAMAL,,,,2
+1306110,8457834719,['Crop_prod'],"['paddy', 'brinjal']",2.0,KEONJHAR,,,,15
+1467251,8688466787,['Animal_husbandry'],,,KALAHANDI,,,,19
+2148050,9556602195,"['Crop_prod', 'Animal_husbandry']","['maize', 'cabbage', 'onion', 'othercrops', 'cauliflower', 'paddy', 'okra', 'brinjal', 'potato', 'chili']",2.0,KEONJHAR,,,,2
+93574,6371304303,"['Crop_prod', 'Animal_husbandry']","['onion', 'othercrops', 'paddy', 'okra', 'brinjal', 'chili']",2.0,KEONJHAR,,,,19
+1513523,8847833161,['Animal_husbandry'],,,KORAPUT,,,,2
+539075,7684894209,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram']",2.0,KEONJHAR,,,,2
+120057,6371742106,"['Crop_prod', 'Animal_husbandry']","['tomato', 'onion', 'othercrops', 'greengram', 'paddy', 'potato']",2.0,KEONJHAR,,,,2
+666157,7790052442,['Crop_prod'],,,KHURDHA,,,,2
+296184,7205159331,['Crop_prod'],['paddy'],2.0,BALASORE,,,,15
+2163993,9556755636,['Crop_prod'],,,MALKANGIRI,,,,19
+2104063,9556161900,,,,,,,,19
+1579214,8917341637,,,,,,,,2
+877334,7978277409,['Animal_husbandry'],,,JHARSUGUDA,,,,19
+2639882,9937126177,,,,,,,,2
+1398394,8658245995,['Crop_prod'],"['othercrops', 'paddy', 'blackgram', 'greengram']",,NUAPADA,,,,2
+196212,7008156674,['Crop_prod'],['paddy'],2.0,KORAPUT,,,,15
+1887058,9337970368,,,,,,,,2
+2211863,9583667253,,,,,,,,19
+1560621,8895924013,['Crop_prod'],,,GAJAPATI,,,,2
+545311,7700863852,['Crop_prod'],,,BALASORE,,,,15
+1853032,9337287576,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,MAYURBHANJ,,,,15
+989178,8018866710,,,,,,,,2
+229488,7064776398,['Animal_husbandry'],,,DHENKANAL,,,,19
+1950139,9348991430,['Animal_husbandry'],,,KORAPUT,,,,15
+2875,6266175960,['Crop_prod'],"['paddy', 'greengram']",2.0,NAWARANGPUR,,,,15
+678245,7846977632,['Crop_prod'],,,BHADRAK,,,,2
+1024895,8114629111,['Crop_prod'],"['paddy', 'greengram']",2.0,PURI,,,,15
+2634730,9937073727,,,,,,,,15
+2605884,9861648613,"['Crop_prod', 'Animal_husbandry']",,,BALASORE,,,,19
+2474381,9777529955,['Crop_prod'],"['cauliflower', 'paddy', 'cotton', 'chili']",2.0,DHENKANAL,,,,15
+631269,7750978095,,,,,,,,2
+1220378,8327705499,['Crop_prod'],['paddy'],2.0,KHURDHA,,,,19
+1877618,9337802759,['Crop_prod'],"['millet', 'redgram', 'cotton']",,KALAHANDI,,,,2
+2234511,9658546583,['Crop_prod'],"['cabbage', 'paddy']",6.0,BHADRAK,,,,15
+738179,7855069430,['Crop_prod'],['paddy'],,MAYURBHANJ,,,,15
+1079441,8144387384,['Crop_prod'],,2.0,KEONJHAR,,,,2
+1960173,9437123448,,,,,,,,2
+2261950,9668198933,"['Crop_prod', 'Animal_husbandry', 'Forestry']",['paddy'],2.0,JHARSUGUDA,,,,2
+1902120,9348168440,['Crop_prod'],"['othercrops', 'paddy']",2.0,BOLANGIR,,,,2
+1876573,9337783164,['Animal_husbandry'],,,KORAPUT,,,,15
+34121,6370314223,['Animal_husbandry'],,,BHADRAK,,,,19
+1546537,8895602812,['Crop_prod'],['paddy'],,MAYURBHANJ,,,,2
+2111872,9556236046,['Crop_prod'],,,GANJAM,,,,2
+2583246,9861195315,['Crop_prod'],['paddy'],,BOLANGIR,,,,2
+1521347,8895073039,['Crop_prod'],['paddy'],,KANDHAMAL,,,,2
+1649021,9078215898,,,,,,,,15
+802546,7894235893,['Crop_prod'],['paddy'],2.0,BALASORE,,,,2
+2201871,9583370801,['Crop_prod'],"['othercrops', 'paddy', 'blackgram']",2.0,BHADRAK,,,,19
+1654524,9078325020,,,,,,,,2
+341304,7327021811,,,,,,,,2
+2214591,9583742960,,,,,,,,15
+347977,7327865448,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",2.0,DHENKANAL,,,,2
+79637,6371077678,,,,,,,,19
+1711141,9131082684,['Animal_husbandry'],,,BOLANGIR,,,,2
+236077,7077054552,,,,,,,,2
+999160,8018957227,['Crop_prod'],['paddy'],2.0,BARGARH,,,,15
+1203253,8280445383,,,,,,,,19
+2476708,9777549075,,,,,,,,19
+437129,7606987046,['Crop_prod'],['paddy'],2.0,BHADRAK,,,,2
+2319759,9668775098,,,,,,,,2
+459080,7609922105,['Crop_prod'],['paddy'],2.0,SONEPUR,,,,2
+1846794,9337148507,,,,,,,,2
+2124064,9556369669,['Crop_prod'],"['paddy', 'blackgram']",2.0,KENDRAPARA,,,,2
+1933151,9348704361,['Crop_prod'],['paddy'],2.0,MAYURBHANJ,,,,2
+2068395,9439590314,,,,,,,,15
+1125222,8249497362,,,,,,,,15
+1693307,9090452628,['Crop_prod'],"['onion', 'othercrops', 'paddy', 'okra', 'potato']",2.0,PURI,,,,2
+335445,7326899452,['Crop_prod'],"['paddy', 'tomato']",2.0,SUNDERGARH,,,,19
+266557,7077530204,"['Crop_prod', 'Animal_husbandry']","['redgram', 'cotton']",3.0,KALAHANDI,,,,20
+2854213,9938989677,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,20
+1853002,9337287054,['Crop_prod'],['paddy'],,NAWARANGPUR,,,,2
+1533116,8895315785,"['Crop_prod', 'Animal_husbandry']","['maize', 'cabbage', 'cauliflower', 'paddy', 'brinjal', 'mustard', 'groundnut', 'chili']",,KANDHAMAL,,,,2
+2210070,9583613919,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",,PURI,,,,20
+2836222,9938822679,['Crop_prod'],,,SAMBALPUR,,,,20
+1324249,8458098602,['Crop_prod'],"['paddy', 'blackgram']",,KHURDHA,,,,1
+2490553,9777670357,['Crop_prod'],"['paddy', 'greengram']",,BOUDH,,,,2
+280284,7077805054,,,,,,,,2
+1781940,9178602248,"['Crop_prod', 'Animal_husbandry', 'Forestry']","['redgram', 'tomato', 'horsegram', 'cucumber', 'greengram', 'bittergourd', 'paddy', 'chili']",5.0,KALAHANDI,1.0,1.0,1.0,20
+39269,6370397023,"['Crop_prod', 'Animal_husbandry']","['maize', 'greengram', 'paddy', 'brinjal', 'groundnut', 'blackgram']",2.0,NAYAGARH,,,,2
+2130094,9556427106,,,,,,,,2
+270690,7077600570,['Crop_prod'],"['paddy', 'greengram']",,BARGARH,,,,2
+2225240,9629349740,['Crop_prod'],['paddy'],2.0,NAWARANGPUR,,,,20
+1916475,9348421847,['Crop_prod'],,,BALASORE,,,,2
+1066131,8144145379,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,NAWARANGPUR,,,,2
+1348138,8480849439,['Crop_prod'],"['paddy', 'greengram']",,PURI,,,,1
+1279921,8456067675,,,,,,,,20
+2363306,9692707394,"['Crop_prod', 'Animal_husbandry']",,,PURI,,,,20
+770851,7873735559,['Crop_prod'],"['othercrops', 'paddy']",2.0,PURI,,,,2
+1569271,8908503477,['Crop_prod'],['paddy'],,BOLANGIR,,,,2
+2116213,9556277751,['Crop_prod'],['paddy'],2.0,BARGARH,,,,2
+776060,7873911405,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,MAYURBHANJ,,,,2
+288464,7077936210,['Crop_prod'],['paddy'],3.0,BARGARH,,,,1
+1512091,8840605129,['Crop_prod'],['paddy'],2.0,NUAPADA,,,,2
+668604,7810078223,['Animal_husbandry'],,,MAYURBHANJ,,,,2
+760443,7873379025,,,,,,,,1
+103228,6371461075,"['Crop_prod', 'Animal_husbandry']",['paddy'],4.0,NUAPADA,,,,2
+2276148,9668333292,,,,,,,,1
+1281717,8456095497,['Crop_prod'],['paddy'],2.0,JHARSUGUDA,,,,2
+2375897,9748997235,['Crop_prod'],"['onion', 'paddy', 'brinjal', 'chili']",2.0,BALASORE,,,,2
+2622502,9861977238,"['Crop_prod', 'Animal_husbandry']","['cabbage', 'paddy', 'brinjal']",2.0,KEONJHAR,,,,2
+1686619,9090081565,['Crop_prod'],"['othercrops', 'okra', 'brinjal', 'ridgegourd']",2.0,PURI,,,,20
+2312762,9668709018,['Crop_prod'],['paddy'],,BARGARH,,,,2
+1070512,8144229452,['Crop_prod'],"['cabbage', 'paddy', 'brinjal']",2.0,PURI,,,,2
+2273265,9668305935,['Crop_prod'],['paddy'],2.0,BHADRAK,,,,20
+1988779,9437762808,['Crop_prod'],"['paddy', 'greengram']",,NAYAGARH,,,,20
+716382,7853934459,['Crop_prod'],['paddy'],2.0,BOLANGIR,,,,2
+1557019,8895833643,['Crop_prod'],"['paddy', 'greengram']",2.0,DHENKANAL,,,,2
+758470,7873309520,['Crop_prod'],"['othercrops', 'paddy']",6.0,BHADRAK,,,,20
+23651,6370150963,"['Crop_prod', 'Animal_husbandry']","['paddy', 'groundnut']",2.0,BARGARH,,,,2
+395687,7381829430,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BALASORE,,,,1
+888584,7978817455,,,,,,,,20
+1327021,8480089501,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,KHURDHA,,,,1
+835558,7894629969,['Crop_prod'],"['mustard', 'paddy', 'greengram']",,NUAPADA,,,,20
+1342079,8480594202,['Crop_prod'],,,KALAHANDI,,,,20
+2247989,9668066092,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram', 'greengram']",2.0,CUTTACK,,,,2
+1881824,9337879624,['Crop_prod'],,,KHURDHA,,,,20
+975111,8018734915,['Animal_husbandry'],,,DHENKANAL,,,,20
+2440775,9777241396,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram', 'greengram']",2.0,KENDRAPARA,,,,20
+1414158,8658420591,['Crop_prod'],"['paddy', 'blackgram']",2.0,BALASORE,,,,20
+2503735,9777771141,['Crop_prod'],"['paddy', 'greengram']",,KALAHANDI,,,,1
+676212,7846913511,,,,,,,,2
+364888,7377162280,['Crop_prod'],"['paddy', 'brinjal']",2.0,DHENKANAL,,,,1
+394634,7381790269,['Crop_prod'],,,BALASORE,,,,2
+1119310,8249229654,['Crop_prod'],"['othercrops', 'paddy']",,KORAPUT,,,,1
+563071,7735356999,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy']",2.0,PURI,,,,2
+419071,7539817370,,,,,,,,2
+678364,7846981437,['Crop_prod'],"['pointedgourd', 'greengram']",2.0,BOUDH,,,,20
+1890454,9340249617,['Crop_prod'],"['paddy', 'greengram']",2.0,KHURDHA,,,,2
+452648,7609062831,"['Crop_prod', 'Animal_husbandry']",['paddy'],,JHARSUGUDA,,,,1
+2611906,9861771323,['Crop_prod'],['paddy'],2.0,NUAPADA,,,,20
+2653421,9937243362,,,,,,,,2
+1968317,9437317227,['Crop_prod'],"['paddy', 'greengram']",2.0,KENDRAPARA,,,,2
+2558678,9853131242,['Crop_prod'],"['paddy', 'greengram']",2.0,PURI,,,,20
+2553087,9827696523,['Crop_prod'],['paddy'],,BOLANGIR,,,,1
+2374593,9725686130,['Animal_husbandry'],,,KALAHANDI,,,,20
+355620,7328029185,"['Crop_prod', 'Animal_husbandry']","['tomato', 'maize', 'cabbage', 'onion', 'othercrops', 'cucumber', 'cauliflower', 'bittergourd', 'paddy', 'brinjal', 'okra', 'mustard', 'potato', 'blackgram', 'chili']",2.0,DEOGARH,,,,2
+512559,7682943056,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,MAYURBHANJ,,,,1
+1993242,9437848541,,,,,,,,20
+2305569,9668635357,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram']",3.0,KHURDHA,,,,2
+1763649,9178431714,['Crop_prod'],['paddy'],2.0,NAWARANGPUR,,,,2
+2559320,9853162352,,,,,,,,2
+2018961,9438380730,['Crop_prod'],['paddy'],2.0,KEONJHAR,,,,1
+1576808,8917283295,,,,,,,,2
+496400,7681835335,"['Crop_prod', 'Animal_husbandry']","['paddy', 'cucumber']",2.0,KEONJHAR,,,,1
+2490023,9777666527,,,,,,,,1
+2845424,9938902536,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,BARGARH,,,,20
+2711924,9937777852,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,2
+1549878,8895675342,['Crop_prod'],"['onion', 'greengram', 'paddy', 'mustard', 'potato', 'blackgram']",2.0,DHENKANAL,,,,2
+886726,7978732504,['Animal_husbandry'],,,BARGARH,,,,1
+1211679,8280722397,"['Crop_prod', 'Animal_husbandry']","['maize', 'paddy', 'okra', 'brinjal', 'mustard', 'chili']",2.0,MAYURBHANJ,,,,2
+2826810,9938744675,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,KEONJHAR,,,,1
+1304776,8457817025,,,,,,,,1
+933447,8018317485,['Crop_prod'],"['paddy', 'greengram']",,JAGATSINGHPUR,,,,20
+43363,6370464458,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,20
+2784237,9938393490,['Crop_prod'],"['paddy', 'blackgram']",2.0,KENDRAPARA,,,,1
+887339,7978761089,['Crop_prod'],"['paddy', 'greengram']",2.0,MAYURBHANJ,,,,1
+2384218,9776208171,['Crop_prod'],"['paddy', 'bottlegourd', 'brinjal', 'tomato']",2.0,KEONJHAR,,,,2
+273974,7077658576,,,,,,,,20
+1720893,9178059313,,,,,,,,1
+759263,7873334880,['Crop_prod'],"['tomato', 'cabbage', 'othercrops', 'cauliflower', 'paddy', 'brinjal', 'chili']",6.0,BALASORE,,,,1
+2447811,9777298307,,,,,,,,1
+321937,7325908347,,,,,,,,1
+1187170,8280108813,['Crop_prod'],"['flowers', 'paddy', 'tomato', 'brinjal']",2.0,KORAPUT,,,,2
+2191048,9583040816,,,,,,,,2
+1086058,8144518203,['Crop_prod'],,,SAMBALPUR,,,,2
+1207428,8280543135,"['Crop_prod', 'Animal_husbandry']",['paddy'],,GAJAPATI,,,,1
+2282339,9668395012,,,,,,,,2
+1946845,9348935748,['Crop_prod'],"['cowpea', 'paddy', 'blackgram']",3.0,NUAPADA,,,,2
+1966595,9437280010,"['Crop_prod', 'Animal_husbandry']",,,RAYAGADA,,,,2
+2605792,9861646792,['Crop_prod'],"['paddy', 'brinjal', 'bottlegourd', 'groundnut']",,KENDRAPARA,,,,16
+1318843,8458017559,['Crop_prod'],"['othercrops', 'paddy']",,BOLANGIR,,,,9
+2431308,9777170133,,,,,,,,16
+625345,7750892404,,,,,,,,2
+941609,8018397808,['Fisheries'],,,MAYURBHANJ,,,,16
+2563447,9853360821,,,,,,,,2
+1130176,8249703582,,,,,,,,9
+2521519,9777912130,['Crop_prod'],"['cabbage', 'groundnut', 'amaranthus']",2.0,GANJAM,,,,9
+422776,7605939757,['Animal_husbandry'],,,NAWARANGPUR,,,,16
+660350,7787905773,,,,,,,,9
+1908292,9348276623,['Crop_prod'],,,KALAHANDI,,,,2
+1210419,8280662577,['Crop_prod'],"['mustard', 'cauliflower', 'paddy']",2.0,SAMBALPUR,,,,16
+2808175,9938591358,"['Crop_prod', 'Animal_husbandry']","['paddy', 'groundnut', 'greengram']",2.0,KENDRAPARA,,,,16
+1188885,8280152156,,,,,,,,2
+2821260,9938698187,['Crop_prod'],['paddy'],2.0,NAWARANGPUR,,,,9
+1643521,9078107972,['Crop_prod'],"['paddy', 'cotton']",2.0,NUAPADA,,,,16
+1404969,8658322064,['Animal_husbandry'],,,DHENKANAL,,,,16
+723874,7854086846,['Crop_prod'],,,JAGATSINGHPUR,,,,2
+1298681,8457028092,['Crop_prod'],['paddy'],,SONEPUR,,,,16
+2049580,9439208069,"['Crop_prod', 'Animal_husbandry']","['cabbage', 'potato', 'paddy', 'brinjal']",2.0,KANDHAMAL,,,,2
+346742,7327836690,['Crop_prod'],"['paddy', 'brinjal', 'greengram']",,KEONJHAR,,,,2
+418312,7537952332,['Crop_prod'],,,KHURDHA,,,,16
+1784619,9178624549,,,,,,,,2
+859179,7894882992,['Crop_prod'],"['paddy', 'greengram']",,BOLANGIR,,,,9
+1821752,9178939048,['Crop_prod'],"['cabbage', 'cowpea', 'cucumber', 'cauliflower', 'paddy', 'brinjal', 'chili']",,KEONJHAR,,,,2
+1895710,9348056066,['Animal_husbandry'],,,DHENKANAL,,,,16
+275325,7077676348,['Crop_prod'],,,BOLANGIR,,,,2
+2437330,9777215590,,,,,,,,9
+2173577,9556847893,"['Crop_prod', 'Animal_husbandry']","['othercrops', 'paddy']",3.0,JAGATSINGHPUR,,,,2
+274011,7077658987,['Crop_prod'],['paddy'],2.0,KALAHANDI,,,,16
+1756067,9178365794,['Crop_prod'],['paddy'],2.0,MAYURBHANJ,,,,9
+1521198,8895070320,"['Crop_prod', 'Animal_husbandry']","['mustard', 'maize']",2.0,KANDHAMAL,,,,16
+2159754,9556710690,,,,,,,,2
+506362,7682098588,['Crop_prod'],"['paddy', 'brinjal']",3.0,JAGATSINGHPUR,,,,16
+515371,7682993229,['Crop_prod'],['paddy'],,SONEPUR,,,,2
+2634714,9937073506,,,,,,,,9
+2456926,9777365807,"['Crop_prod', 'Animal_husbandry']","['tomato', 'cabbage', 'cauliflower', 'paddy', 'potato']",2.0,DEOGARH,,,,9
+1026771,8114666159,['Animal_husbandry'],,,BOLANGIR,,,,9
+577607,7735679122,"['Crop_prod', 'Animal_husbandry']",,,JAGATSINGHPUR,,,,2
+1555835,8895803136,,,,,,,,16
+197014,7008193429,,,,,,,,2
+631780,7750985457,['Crop_prod'],"['cotton', 'tomato', 'onion', 'othercrops', 'paddy', 'groundnut']",2.0,BOLANGIR,,,,2
+2837681,9938834977,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,16
+1510865,8820072650,,,,,,,,2
+1769656,9178501346,,,,,,,,9
+1860487,9337441716,,,,,,,,2
+312877,7205893958,['Crop_prod'],,,BALASORE,,,,2
+390483,7381642576,['Crop_prod'],['paddy'],2.0,MAYURBHANJ,,,,2
+1308836,8457873370,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,KEONJHAR,,,,2
+2055159,9439303550,"['Crop_prod', 'Animal_husbandry']",['paddy'],2.0,PURI,,,,16
+2595176,9861443246,['Crop_prod'],"['paddy', 'blackgram', 'greengram']",2.0,PURI,,,,2
+546111,7723085459,,,,,,,,2
+1213099,8280785884,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",4.0,BOUDH,,,,16
+726319,7854832523,"['Crop_prod', 'Animal_husbandry']","['cowpea', 'paddy']",2.0,KALAHANDI,,,,2
+2255254,9668130988,,,,,,,,2
+2336845,9692006977,['Crop_prod'],"['mustard', 'paddy']",,BALASORE,,,,9
+1785168,9178629933,['Animal_husbandry'],,,KHURDHA,,,,9
+1607394,8984368966,['Crop_prod'],"['paddy', 'brinjal', 'chili']",,BALASORE,,,,2
+2467122,9777459049,,,,,,,,9
+927382,8018265046,['Crop_prod'],"['potato', 'onion', 'paddy', 'tomato']",6.0,SONEPUR,,,,9
+2762213,9938203388,['Crop_prod'],"['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,16
+535608,7684834492,['Crop_prod'],"['paddy', 'tomato', 'brinjal']",2.0,BALASORE,,,,16
+2259391,9668172044,['Crop_prod'],"['paddy', 'greengram', 'chili']",,BALASORE,,,,16
+1336227,8480379103,['Animal_husbandry'],,,RAYAGADA,,,,16
+1522761,8895104727,,,,,,,,2
+804658,7894257944,"['Crop_prod', 'Animal_husbandry']","['paddy', 'greengram']",2.0,JAGATSINGHPUR,,,,9
+1251776,8355870286,['Crop_prod'],['paddy'],,BALASORE,,,,9
+1745824,9178276754,,,,,,,,2
+2785593,9938405418,['Crop_prod'],"['paddy', 'chili']",,DHENKANAL,,,,2
+2836389,9938823989,,,,,,,,2
+2062649,9439460161,['Forestry'],,,KORAPUT,,,,16
+2571451,9853802882,,,,,,,,16
+2488399,9777653744,,,,,,,,2
+230787,7064864269,"['Crop_prod', 'Animal_husbandry']","['cabbage', 'bottlegourd', 'cauliflower', 'paddy']",2.0,PURI,,,,2
+2626900,9898598947,['Crop_prod'],"['millet', 'maize']",2.0,GAJAPATI,,,,2
+2501928,9777758015,['Animal_husbandry'],,,NUAPADA,,,,16
+1839183,9326864605,['Crop_prod'],"['paddy', 'greengram']",2.0,BHADRAK,,,,16
+2504057,9777772716,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram', 'greengram']",2.0,JAGATSINGHPUR,,,,2
+429177,7606081439,['Crop_prod'],,,NAYAGARH,,,,9
+2353577,9692447636,"['Crop_prod', 'Animal_husbandry']",['paddy'],4.0,SAMBALPUR,,,,2
+52774,6370620394,['Crop_prod'],['paddy'],6.0,BALASORE,,,,9
+983842,8018813495,['Animal_husbandry'],,,BOLANGIR,,,,2
+539683,7684902398,,,,,,,,2
+1703909,9110819047,['Crop_prod'],,,NAYAGARH,,,,2
+1994686,9437881776,['Crop_prod'],"['mustard', 'paddy']",,JHARSUGUDA,,,,16
+2663711,9937345855,['Crop_prod'],"['cotton', 'tomato', 'onion', 'greengram', 'paddy']",3.0,BOLANGIR,,,,16
+1771373,9178516148,['Crop_prod'],,,KENDRAPARA,,,,9
+947905,8018459139,['Crop_prod'],['paddy'],2.0,NUAPADA,,,,2
+1827722,9178993068,['Animal_husbandry'],,,BARGARH,,,,16
+654171,7752039067,"['Crop_prod', 'Animal_husbandry']","['paddy', 'sesamum']",2.0,MAYURBHANJ,,,,2
+1087066,8144535742,"['Crop_prod', 'Animal_husbandry']","['paddy', 'blackgram']",3.0,SAMBALPUR,,,,9
+1233417,8337947249,['Animal_husbandry'],,,BALASORE,,,,2
+1558069,8895859683,['Crop_prod'],"['paddy', 'brinjal', 'chili']",5.0,MALKANGIRI,,,,16
+283476,7077856361,,,,,,,,9
+2182836,9556941395,,,,,,,,2
+1141725,8260083286,"['Crop_prod', 'Animal_husbandry']",,,RAYAGADA,,,,16
+1608493,8984409428,['Crop_prod'],,,DHENKANAL,,,,16
+2350407,9692363001,['Crop_prod'],"['paddy', 'chili']",2.0,NAWARANGPUR,,,,2
+2241366,9667721325,"['Crop_prod', 'Animal_husbandry']","['paddy', 'maize', 'chili']",2.0,MAYURBHANJ,,,,2
